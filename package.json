@@ -1,0 +1,15 @@
+{
+  "name": "osdc-qtjs-example",
+  "version": "0.0.1",
+  "description": "Qtjs Example for OSDC.tw 2014",
+  "main": "app.js",
+  "dependencies": {
+    "tennu": "~0.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fred Chien <cfsghost@gmail.com>",
+  "license": "MIT"
+}
